@@ -6,15 +6,15 @@ The Zoo dataset is a popular dataset frequently used in the fields of machine le
 
 
 # Tool used
-Orange  tool description
+# Orange  tool description
 
 It is an open-source data visualization, data mining, and machine learning tool. Orange is a 	scriptable  environment for quick prototyping of the latest algorithms and testing patterns. It is a group 	of python-based modules that exist in the core library. It implements some functionalities for which 	execution time is not essential, and that is done in Python.
 Orange is a set of graphical widgets that utilizes strategies from the core library and orange modules and gives a decent user interface. All these together make an orange an exclusive component-based algorithm for data mining and machine learning. Orange is proposed for both experienced users and analysts in data mining and machine learning who want to create and test their own algorithms while reusing as much of the code as possible, and for those simply entering the field who can either write short python contents for data analysis.
 
-#Preprocessing Techniques applied
+# Preprocessing Techniques applied
+
 i)Continuze  discrete values
-ii)Normalize features
-iii)Select random features
+ii)Select random features
 
 # Classification techniques applied
 1.Naive Bayes
@@ -22,6 +22,9 @@ iii)Select random features
 3.Tree
 4.KNN
 
-After applying these techniques the analysis is below:-
+# Analysis Part
+•	From the above analysis,Naive Bayes has more accuracy.Before preprocessing Naïve Bayes has accuracy of 0.921.After applying preprocessing technique(continuize discrete variables) the accuracy is increased to 0.999.after applying select random features the accuracy is increased to 0.950.
+•	Therefore ,Naïve Bayes gives the best accuracy for classifying the animals based on their features.
 
-[Analysis.docx](https://github.com/user-attachments/files/16055263/Analysis.docx)
+  
+
