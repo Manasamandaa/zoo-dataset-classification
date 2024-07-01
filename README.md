@@ -13,8 +13,10 @@ Orange is a set of graphical widgets that utilizes strategies from the core libr
 
 # Preprocessing Techniques applied
 
-i)Continuze  discrete values
-ii)Select random features
+# i)Continuze  discrete values: 
+In Orange, "continuizing" discrete variables refers to the process of converting categorical (discrete) variables into continuous (numeric) variables. This conversion is necessary because many machine learning algorithms and statistical methods require numerical input. By transforming categorical data into a continuous format, these methods can process the data effectively. 
+# ii)Select random features:
+The "Select Random Features" function is used to randomly choose a subset of features (attributes or variables) from your dataset. This can be particularly useful in several scenarios. For instance, when training a machine learning model, selecting a random subset of features can help reduce computational time and resources, allowing for quicker experimentation and model evaluation. 
 
 # Classification techniques applied
 1.Naive Bayes
