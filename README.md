@@ -25,7 +25,11 @@ The "Select Random Features" function is used to randomly choose a subset of fea
 
 # Analysis Part
 •	From the above analysis,Naive Bayes has more accuracy.Before preprocessing Naïve Bayes has accuracy of 0.921.After applying preprocessing technique(continuize discrete variables) the accuracy is increased to 0.999.after applying select random features the accuracy is increased to 0.950.
+Below is the analysis part.
 •	Therefore ,Naïve Bayes gives the best accuracy for classifying the animals based on their features.
+[Analysis.docx](https://github.com/user-attachments/files/16277631/Analysis.docx)
 
-  
+The Workflow of the project is:-
+![wf](https://github.com/user-attachments/assets/9c4b80e2-c564-4332-bc29-4148cce73509)
+
 
