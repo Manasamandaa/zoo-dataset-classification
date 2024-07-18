@@ -29,7 +29,7 @@ Below is the analysis part.
 •	Therefore ,Naïve Bayes gives the best accuracy for classifying the animals based on their features.
 [Analysis.docx](https://github.com/user-attachments/files/16277631/Analysis.docx)
 
-The Workflow of the project is:-
+# The Workflow of the project is:-
 ![wf](https://github.com/user-attachments/assets/9c4b80e2-c564-4332-bc29-4148cce73509)
 
 
